@@ -10,6 +10,7 @@
 
 - 01:周波数フィルタ
 - 02:wavelet
+- 03:スペクトルサブトラクション
 
 ### Data
 'data/noisy_voice.wav'
